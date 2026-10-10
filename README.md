@@ -4,7 +4,7 @@
 
 **[Read the case study →](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/photo-site.md)** · [Live](https://www.charlesbingaman.com)
 
-[![charlesbingaman.com](img/admin-photo-map-trip-globe.jpg)](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/photo-site.md)
+[![charlesbingaman.com](img/hero-client-gallery-framed.jpg)](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/photo-site.md)
 
 - **A complete back office for a working photographer, with nothing they don't need:** culling, client
   delivery, proofing, inquiries and security in one admin.
